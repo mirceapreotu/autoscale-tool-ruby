@@ -1,0 +1,9 @@
+default:
+  aws:
+    access_key_id: AKIAJ5NPGRMF55JKVPXQ
+    secret_access_key: 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
+
+#development:
+#test:
+#staging:
+#production:
